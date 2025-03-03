@@ -25,19 +25,19 @@ This repository provides examples of deploying highly available containerized ap
 
 ## 📌 Getting Started
 
-(Provide clear steps for environment setup and deployment instructions.)
+- steps for environment setup and deployment instructions...
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing & Collaboration
 
-(Follow the standard contributing format as above.)
+I’m open to collaborating on **Cloud Infrastructure**, **DevOps projects**, and **automation initiatives**. Feel free to connect for collaboration or knowledge exchange!
 
 ---
 
 ## 📜 License
 
-MIT License.
+Content and projects within this repository are licensed under the [MIT License](LICENSE).
 
 ---
 

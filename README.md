@@ -56,10 +56,10 @@ This project demonstrates the power of **IaC** through **Terraform** to create a
 
 ### 🛠️ **Phase 4: Azure Cost Optimization & Monitoring**
 
-- Implement **Azure Monitor & Log Analytics** for performance tracking.
-- Optimize cloud costs using **Azure Cost Management tools**.
+- Implement **Azure Monitor & Log Analytics** to track performance.
+- Optimize cost with **Azure Cost Management**.
 - Configure **alerts & notifications** for critical events.
-- Automate cost-saving techniques like **Auto-Scaling & Budget Alerts**.
+- Set up **budget alerts and auto-scaling** for cost savings..
 
     **📚 Relevant Courses:**
     *   [Troubleshooting Microsoft Azure Connectivity](https://www.udemy.com/course/az-720-troubleshooting-microsoft-azure-connectivity-course/)

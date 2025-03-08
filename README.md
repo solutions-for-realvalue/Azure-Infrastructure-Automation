@@ -32,10 +32,10 @@ This project demonstrates **Infrastructure as Code (IaC)** practices using **Ter
 
 ### 🛠️ **Phase 2: Azure Kubernetes Service (AKS) Deployment**
 
-- **Containerized app deployment** using Azure Kubernetes Service.
-- **Implement Helm Charts** for managing configurations.
-- **Use Azure Container Registry (ACR)** for secure image storage.
-- **Set up CI/CD pipelines** to deploy Kubernetes manifests.
+- Deploy containerized applications using **Azure Kubernetes Service (AKS)**.
+- Manage configurations with **Helm Charts**.
+- Secure container storage via **Azure Container Registry (ACR)**.
+- Automate deployments using **CI/CD Pipelines**.
 
     **📚 Relevant Courses:**
     *   [Azure Administrator: AZ-104](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/)

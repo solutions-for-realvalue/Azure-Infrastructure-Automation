@@ -56,10 +56,10 @@ This project demonstrates **Infrastructure as Code (IaC)** practices using **Ter
 
 ### 🛠️ **Phase 4: Azure Cost Optimization & Monitoring**
 
-- **Set up Azure Monitor & Log Analytics** to track VM & AKS performance.
-- **Use Azure Cost Management tools** to optimize billing.
-- **Configure alerting rules & notifications** for critical events.
-- **Automate cost-saving techniques** using Auto-Scaling & Budget Alerts.
+- Implement **Azure Monitor & Log Analytics** for performance tracking.
+- Optimize cloud costs using **Azure Cost Management tools**.
+- Configure **alerts & notifications** for critical events.
+- Automate cost-saving techniques like **Auto-Scaling & Budget Alerts**.
 
     **📚 Relevant Courses:**
     *   [Troubleshooting Microsoft Azure Connectivity](https://www.udemy.com/course/az-720-troubleshooting-microsoft-azure-connectivity-course/)

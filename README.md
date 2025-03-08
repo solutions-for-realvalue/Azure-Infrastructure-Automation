@@ -144,10 +144,11 @@ terraform apply -auto-approve
 
 ## 🌟 Core Skills Demonstrated
 
-- **Cloud Environments**: Azure Virtual Machines, Azure Kubernetes Service (AKS)
-- **IaC & Automation**: Terraform, PowerShell, Bash, ARM Templates
-- **Security & Compliance**: Network Security Groups (NSGs), IAM (RBAC, PIM), Encryption
-- **Monitoring & Cost Management**: Azure Monitor, Log Analytics, Resource Tagging
+*   **Cloud Infrastructure**: Azure Virtual Machines, VNet, Storage
+*   **Infrastructure as Code**: Terraform, ARM Templates
+*   **Security & Compliance**: RBAC, IAM, Azure Policy, NSGs
+*   **Automation & CI/CD**: GitHub Actions, Azure DevOps
+*   **Monitoring & Cost Management**: Azure Monitor, Log Analytics, Resource Tagging
 
 ---
 

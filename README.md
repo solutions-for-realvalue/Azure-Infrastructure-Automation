@@ -53,7 +53,17 @@ This project demonstrates **Infrastructure as Code (IaC)** practices using **Ter
     *   [AZ-500: Microsoft Security Engineer](https://www.udemy.com/course/az-500-microsoft-azure-security-technologies-with-sims)
     *   [Microsoft Sentinel Course with Hands-on Labs](https://www.udemy.com/course/microsoft-sentinel-course-with-hands-on-sims/)
 
+### 🛠️ **Phase 4: Azure Cost Optimization & Monitoring**
 
+- **Set up Azure Monitor & Log Analytics** to track VM & AKS performance.
+- **Use Azure Cost Management tools** to optimize billing.
+- **Configure alerting rules & notifications** for critical events.
+- **Automate cost-saving techniques** using Auto-Scaling & Budget Alerts.
+
+    **📚 Relevant Courses:**
+    *   [Troubleshooting Microsoft Azure Connectivity](https://www.udemy.com/course/az-720-troubleshooting-microsoft-azure-connectivity-course/)
+    *   [Microsoft Applied Skills: Configure Secure Azure Networking](https://www.udemy.com/course/microsoft-applied-skills-configure-secure-access-to-your/)
+    *   [Azure Monitor & Cost Management Documentation](https://www.udemy.com/course/azure-infrastructure-managing-cost-governance-monitoring/)
 
 
 

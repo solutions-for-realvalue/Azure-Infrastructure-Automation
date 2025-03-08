@@ -97,6 +97,18 @@ Azure-Infrastructure-Automation/
 
 ---
 
+## 📌 Next Steps
+
+- [x] Deploy foundational Terraform infrastructure (VMs, Storage, Networking)
+- [ ] Implement IAM (RBAC, PIM) & Azure Security Center
+- [ ] Set up Kubernetes on AKS & containerized workloads
+- [ ] Integrate monitoring & cost management (Azure Monitor, Log Analytics)
+- [ ] Automate CI/CD pipelines with GitHub Actions & Azure DevOps
+
+---
+
+
+
 
 
 ## 🌟 Core Skills Demonstrated

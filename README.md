@@ -65,7 +65,37 @@ This project demonstrates **Infrastructure as Code (IaC)** practices using **Ter
     *   [Microsoft Applied Skills: Configure Secure Azure Networking](https://www.udemy.com/course/microsoft-applied-skills-configure-secure-access-to-your/)
     *   [Azure Monitor & Cost Management Documentation](https://www.udemy.com/course/azure-infrastructure-managing-cost-governance-monitoring/)
 
+---
 
+## 📂 Repository Structure
+
+```bash
+Azure-Infrastructure-Automation/
+│── README.md                   # Overview & Getting Started
+│── Terraform/
+│   ├── main.tf                  # Core Terraform configuration
+│   ├── variables.tf              # Variables & Inputs
+│   ├── outputs.tf                # Outputs & Exports
+│   ├── modules/
+│   │   ├── networking.tf         # VNet, Subnets, NSGs
+│   │   ├── storage.tf            # Storage Account, Disks
+│   │   ├── compute.tf            # VMs, AKS Cluster
+│── CI-CD/
+│   ├── github-actions.yml        # GitHub Actions CI/CD pipeline
+│   ├── azure-pipelines.yml       # Azure DevOps CI/CD pipeline
+│── Security/
+│   ├── rbac.tf                   # IAM Roles, RBAC policies
+│   ├── encryption.tf             # Storage & VM Disk Encryption
+│   ├── azure-policy.tf           # Security & Compliance Policies
+│── Monitoring/
+│   ├── azure-monitor.tf          # Metrics & Log Analytics
+│   ├── alert-rules.tf            # Alerts & Budget Notifications
+│── LICENSE
+│── Journal.md                   # Weekly Progress Tracking
+
+```
+
+---
 
 
 

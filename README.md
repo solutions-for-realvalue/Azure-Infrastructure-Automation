@@ -14,13 +14,12 @@ This project demonstrates Infrastructure as Code (IaC) practices using Terraform
 - Implemented Azure Resource Manager (ARM) and Terraform configurations.
 - Integration with Azure DevOps and GitHub Actions for continuous deployment.
 
-
 ## 🌟 Core Skills Demonstrated
 
-- **Cloud Environments**: Azure AKS, Azure VMs
-- **IaC & Automation**: Terraform, Helm Charts, GitHub Actions
-- **Security & Compliance**: RBAC, NSGs, Encryption
-- **Monitoring & Cost Management**: Azure Monitor, Prometheus, Grafana
+- **Cloud Environments**: Azure VMs, ARM Templates
+- **IaC & Automation**: Terraform, PowerShell, Bash
+- **Security & Compliance**: Network Security Groups, IAM
+- **Monitoring & Cost Management**: Azure Monitor, Resource Tagging
 
 ---
 

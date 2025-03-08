@@ -30,12 +30,12 @@ This project demonstrates the power of **IaC** through **Terraform** to create a
     *   [Terraform 101](https://www.udemy.com/course/terraform-101-azure-edition/)
     *   [Microsoft Learn - ARM Templates Best Practices](https://learn.microsoft.com/en-us/training/paths/deploy-manage-resource-manager-templates/)
 
-### 🛠️ **Phase 2: Azure Kubernetes Service (AKS) Deployment**
+### 🛠️ **Phase 2: Kubernetes Deployment with AKS**
 
-- Deploy containerized applications using **Azure Kubernetes Service (AKS)**.
-- Manage configurations with **Helm Charts**.
-- Secure container storage via **Azure Container Registry (ACR)**.
-- Automate deployments using **CI/CD Pipelines**.
+- Deploy containerized applications on **Azure Kubernetes Service (AKS)**.
+- Use **Helm Charts** for managing configurations.
+- Secure images with **Azure Container Registry (ACR)**.
+- Implement **CI/CD pipelines** for Kubernetes manifests.
 
     **📚 Relevant Courses:**
     *   [Azure Administrator: AZ-104](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/)

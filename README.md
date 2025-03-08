@@ -107,9 +107,11 @@ Azure-Infrastructure-Automation/
 
 ---
 
+## 📌 Getting Started
 
+- steps for environment setup and deployment instructions...
 
-
+---
 
 ## 🌟 Core Skills Demonstrated
 
@@ -117,12 +119,6 @@ Azure-Infrastructure-Automation/
 - **IaC & Automation**: Terraform, PowerShell, Bash
 - **Security & Compliance**: Network Security Groups, IAM
 - **Monitoring & Cost Management**: Azure Monitor, Resource Tagging
-
----
-
-## 📌 Getting Started
-
-- steps for environment setup and deployment instructions...
 
 ---
 

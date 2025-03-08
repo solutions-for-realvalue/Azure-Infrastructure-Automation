@@ -116,10 +116,10 @@ Azure-Infrastructure-Automation/
 
 ## 🌟 Core Skills Demonstrated
 
-- **Cloud Environments**: Azure VMs, ARM Templates
-- **IaC & Automation**: Terraform, PowerShell, Bash
-- **Security & Compliance**: Network Security Groups, IAM
-- **Monitoring & Cost Management**: Azure Monitor, Resource Tagging
+- **Cloud Environments**: Azure Virtual Machines, Azure Kubernetes Service (AKS)
+- **IaC & Automation**: Terraform, PowerShell, Bash, ARM Templates
+- **Security & Compliance**: Network Security Groups (NSGs), IAM (RBAC, PIM), Encryption
+- **Monitoring & Cost Management**: Azure Monitor, Log Analytics, Resource Tagging
 
 ---
 

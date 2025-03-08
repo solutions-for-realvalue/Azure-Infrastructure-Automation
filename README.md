@@ -29,7 +29,17 @@ This project demonstrates **Infrastructure as Code (IaC)** practices using **Ter
     *   [Terraform 101](https://www.udemy.com/course/terraform-101-azure-edition/)
     *   [Microsoft Learn - ARM Templates Best Practices](https://learn.microsoft.com/en-us/training/paths/deploy-manage-resource-manager-templates/)
 
+### 🛠️ **Phase 2: Azure Kubernetes Service (AKS) Deployment**
 
+- **Containerized app deployment** using Azure Kubernetes Service.
+- **Implement Helm Charts** for managing configurations.
+- **Use Azure Container Registry (ACR)** for secure image storage.
+- **Set up CI/CD pipelines** to deploy Kubernetes manifests.
+
+    **📚 Relevant Courses:**
+    *   [Azure Administrator: AZ-104](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/)
+    *   [Kubernetes on Azure](https://www.udemy.com/course/terraform-on-azure-services/)
+    *   [CI/CD Pipelines with GitHub Actions](https://www.udemy.com/course/learn-github-actions-ci-cd-devops-pipelines/)
 
 
 

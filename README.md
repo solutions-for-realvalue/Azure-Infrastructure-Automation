@@ -1,6 +1,6 @@
-# Kubernetes Application Deployment on Azure AKS 📦
+# Azure Infrastructure Automation with Terraform 🚀
 
-Scalable, secure deployment of containerized applications using Azure Kubernetes Service (AKS).
+Automated provisioning and management of Azure resources (VMs, Storage, Networks) using Terraform.
 
 ---
 

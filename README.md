@@ -44,10 +44,10 @@ This project demonstrates **Infrastructure as Code (IaC)** practices using **Ter
 
 ### 🛠️ **Phase 3: Cloud Security & Compliance**
 
-- **Implement IAM (RBAC, PIM)** for resource security.
-- **Use Azure Key Vault** for secrets management.
-- **Deploy Microsoft Defender for Cloud** to protect workloads.
-- **Create & enforce Azure Policy & Security Center recommendations.**
+- Implement **IAM** (**RBAC, PIM**) for secure access control.
+- Secure credentials using **Azure Key Vault**.
+- Deploy **Microsoft Defender for Cloud** for workload protection.
+- Enforce security with **Azure Policy & Security Center recommendations**.
 
     **📚 Relevant Courses:**
     *   [SC-900: Microsoft Security, Compliance, & Identity](https://www.udemy.com/course/sc-900-microsoft-security-compliance-identity-with-sims)

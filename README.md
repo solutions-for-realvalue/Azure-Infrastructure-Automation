@@ -148,7 +148,7 @@ terraform apply -auto-approve
 *   **Infrastructure as Code**: Terraform, ARM Templates
 *   **Security & Compliance**: RBAC, IAM, Azure Policy, NSGs
 *   **Automation & CI/CD**: GitHub Actions, Azure DevOps
-*   **Monitoring & Cost Management**: Azure Monitor, Log Analytics, Resource Tagging
+*   **Monitoring & Cost Management**: Azure Monitor, LBudget Alerts
 
 ---
 

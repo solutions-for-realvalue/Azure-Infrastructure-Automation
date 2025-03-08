@@ -6,13 +6,14 @@ Automated provisioning and management of Azure resources (VMs, Storage, Networks
 
 ## 📖 Project Overview
 
-This repository provides examples of deploying highly available containerized applications using AKS. It covers Kubernetes concepts, container orchestration, and CI/CD deployment using GitHub Actions.
+This project demonstrates Infrastructure as Code (IaC) practices using Terraform to automate Azure infrastructure deployments. The automation focuses on reproducibility, scalability, and best practices for cloud infrastructure.
 
 ## 🛠️ Features
 
-- Deployment and scaling of applications using Kubernetes deployments.
-- Secure networking and ingress configuration.
-- CI/CD pipeline integration for continuous deployment.
+- Automated provisioning of Azure Virtual Machines, Storage Accounts, and Virtual Networks.
+- Implemented Azure Resource Manager (ARM) and Terraform configurations.
+- Integration with Azure DevOps and GitHub Actions for continuous deployment.
+
 
 ## 🌟 Core Skills Demonstrated
 

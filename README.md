@@ -17,12 +17,12 @@ This project demonstrates the power of **IaC** through **Terraform** to create a
 
 ## 📖 Learning Roadmap
 
-### 🛠️ **Phase 1: Infrastructure as Code (Terraform & ARM Templates)**
+### 🛠️ **Phase 1: Terraform & ARM Templates**
 
-- Deploy **Azure VMs** with network interfaces, security groups, and disk encryption.
-- Automate networking (**VNets, Subnets, NSGs**) with Terraform modules.
+- Deploy **Azure Virtual Machines** with networking, security groups, and disk encryption.
+- Automate **VNets, Subnets, and NSGs** with Terraform modules.
 - Provision **Storage** (**Blob Storage, Files, Disks**) for applications.
-- Implement hybrid deployments using **ARM Templates & Terraform**.
+- Integrate **ARM Templates & Terraform** for hybrid deployments.
 
     **📚 Relevant Courses:**
     *   [AZ-900: Microsoft Azure Fundamentals](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-with-simulations/)

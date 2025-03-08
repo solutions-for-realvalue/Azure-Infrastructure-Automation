@@ -110,7 +110,35 @@ Azure-Infrastructure-Automation/
 
 ## 📌 Getting Started
 
-- steps for environment setup and deployment instructions...
+1.  Clone the repository:
+
+```bash
+git clone https://github.com/solutions-for-realvalue/Azure-Infrastructure-Automation.git
+```
+
+2.  Navigate to Terraform directory:
+
+```bash
+cd Terraform/
+```
+
+3.  Initialize Terraform:
+
+```bash
+terraform init
+```
+
+4.  Plan the infrastructure deployment:
+
+```bash
+terraform plan
+```
+
+5.  Deploy the infrastructure:
+
+```bash
+terraform apply -auto-approve
+```
 
 ---
 

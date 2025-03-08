@@ -7,11 +7,11 @@ Automating the provisioning and management of **Azure** resources (VMs, Storage,
 ## 📌 Project Overview
 
 This project demonstrates the power of **IaC** through **Terraform** to create a scalable, secure, and repeatable infrastructure deployment on Azure. The focus includes:
-- **Automate deployment of Azure Virtual Machines, Storage Accounts, Virtual Networks using Terraform**
-- **Implementation of Azure Resource Manager (ARM) Templates**
-- **CI/CD Pipelines with GitHub Actions & Azure DevOps**
-- **Infrastructure security with RBAC, NSGs, and encryption**
-- **Monitoring & cost tracking via Azure Monitor & Log Analytics**
+- **Automating the deployment of Azure Virtual Machines, Storage Accounts, and Virtual Networks.**
+- **Utilizing ARM Templates** alongside Terraform for hybrid deployments.
+- **Implementing CI/CD Pipelines** with **GitHub Actions** and **Azure DevOps**.
+- **Enhancing security** with **RBAC, NSGs, encryption**, and compliance best practices.
+- **Setting up monitoring** with **Azure Monitor & Log Analytics** to track costs and performance.
 
 ---
 

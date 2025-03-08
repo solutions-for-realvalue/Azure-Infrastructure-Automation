@@ -44,10 +44,10 @@ This project demonstrates the power of **IaC** through **Terraform** to create a
 
 ### 🛠️ **Phase 3: Cloud Security & Compliance**
 
-- Implement **IAM** (**RBAC, PIM**) for secure access control.
-- Secure credentials using **Azure Key Vault**.
-- Deploy **Microsoft Defender for Cloud** for workload protection.
-- Enforce security with **Azure Policy & Security Center recommendations**.
+- Implement **IAM policies** (**RBAC, PIM**) for role-based access control.
+- Secure secrets with **Azure Key Vault**.
+- Protect workloads with **Microsoft Defender for Cloud**.
+- Apply **Azure Policies & Security Center** recommendations.
 
     **📚 Relevant Courses:**
     *   [SC-900: Microsoft Security, Compliance, & Identity](https://www.udemy.com/course/sc-900-microsoft-security-compliance-identity-with-sims)

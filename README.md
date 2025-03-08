@@ -19,13 +19,14 @@ This project demonstrates **Infrastructure as Code (IaC)** practices using **Ter
 
 ### 🛠️ **Phase 1: Infrastructure as Code (Terraform & ARM Templates)**
 
-- **Deploy Azure VMs** with network interfaces, security groups, and disk encryption.
-- **Automate networking (VNets, Subnets, NSGs)** with Terraform modules.
-- **Storage provisioning** (Blob Storage, Files, Disks) for applications.
-- **Use ARM Templates & Terraform together** for hybrid deployment.
+- Deploy **Azure VMs** with network interfaces, security groups, and disk encryption.
+- Automate networking (**VNets, Subnets, NSGs**) with Terraform modules.
+- Provision **Storage** (**Blob Storage, Files, Disks**) for applications.
+- Implement hybrid deployments using **ARM Templates & Terraform**.
 
     **📚 Relevant Courses:**
-    *   [AZ-900: Microsoft Azure Fundamentals](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-with-simulations/), [AZ-104: Microsoft Azure Administrator](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/)
+    *   [AZ-900: Microsoft Azure Fundamentals](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-with-simulations/)
+    *   [AZ-104: Microsoft Azure Administrator](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/)
     *   [Terraform 101](https://www.udemy.com/course/terraform-101-azure-edition/)
     *   [Microsoft Learn - ARM Templates Best Practices](https://learn.microsoft.com/en-us/training/paths/deploy-manage-resource-manager-templates/)
 

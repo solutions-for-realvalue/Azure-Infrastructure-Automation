@@ -170,7 +170,7 @@ Content and projects within this repository are licensed under the [MIT License]
 
 ---
 
-## 📧 Contact & Connect
+## Contact & Connect
 
 📩 **Email**: [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)  
 🔗 **LinkedIn**: [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda)

@@ -7,11 +7,11 @@ Automating the provisioning and management of **Azure** resources (VMs, Storage,
 ## 📌 Project Overview
 
 This project demonstrates the power of **IaC** through **Terraform** to create a scalable, secure, and repeatable infrastructure deployment on Azure. The focus includes:
-- **Automating the deployment of Azure Virtual Machines, Storage Accounts, and Virtual Networks.**
-- **Utilizing ARM Templates** alongside Terraform for hybrid deployments.
-- **Implementing CI/CD Pipelines** with **GitHub Actions** and **Azure DevOps**.
-- **Enhancing security** with **RBAC, NSGs, encryption**, and compliance best practices.
-- **Setting up monitoring** with **Azure Monitor & Log Analytics** to track costs and performance.
+*   **Automating the deployment of Azure Virtual Machines, Storage Accounts, and Virtual Networks.**
+*   **Utilizing ARM Templates** alongside Terraform for hybrid deployments.
+*   **Implementing CI/CD Pipelines** with **GitHub Actions** and **Azure DevOps**.
+*   **Enhancing security** with **RBAC, NSGs, encryption**, and compliance best practices.
+*   **Setting up monitoring** with **Azure Monitor & Log Analytics** to track costs and performance.
 
 ---
 
@@ -19,10 +19,10 @@ This project demonstrates the power of **IaC** through **Terraform** to create a
 
 ### 🛠️ **Phase 1: Terraform & ARM Templates**
 
-- Deploy **Azure Virtual Machines** with networking, security groups, and disk encryption.
-- Automate **VNets, Subnets, and NSGs** with Terraform modules.
-- Provision **Storage** (**Blob Storage, Files, Disks**) for applications.
-- Integrate **ARM Templates & Terraform** for hybrid deployments.
+*   Deploy **Azure Virtual Machines** with networking, security groups, and disk encryption.
+*   Automate **VNets, Subnets, and NSGs** with Terraform modules.
+*   Provision **Storage** (**Blob Storage, Files, Disks**) for applications.
+*   Integrate **ARM Templates & Terraform** for hybrid deployments.
 
     **📚 Relevant Courses:**
     *   [AZ-900: Microsoft Azure Fundamentals](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-with-simulations/)
@@ -32,10 +32,10 @@ This project demonstrates the power of **IaC** through **Terraform** to create a
 
 ### 🛠️ **Phase 2: Kubernetes Deployment with AKS**
 
-- Deploy containerized applications on **Azure Kubernetes Service (AKS)**.
-- Use **Helm Charts** for managing configurations.
-- Secure images with **Azure Container Registry (ACR)**.
-- Implement **CI/CD pipelines** for Kubernetes manifests.
+*   Deploy containerized applications on **Azure Kubernetes Service (AKS)**.
+*   Use **Helm Charts** for managing configurations.
+*   Secure images with **Azure Container Registry (ACR)**.
+*   Implement **CI/CD pipelines** for Kubernetes manifests.
 
     **📚 Relevant Courses:**
     *   [Azure Administrator: AZ-104](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/)
@@ -44,10 +44,10 @@ This project demonstrates the power of **IaC** through **Terraform** to create a
 
 ### 🛠️ **Phase 3: Cloud Security & Compliance**
 
-- Implement **IAM policies** (**RBAC, PIM**) for role-based access control.
-- Secure secrets with **Azure Key Vault**.
-- Protect workloads with **Microsoft Defender for Cloud**.
-- Apply **Azure Policies & Security Center** recommendations.
+*   Implement **IAM policies** (**RBAC, PIM**) for role-based access control.
+*   Secure secrets with **Azure Key Vault**.
+*   Protect workloads with **Microsoft Defender for Cloud**.
+*   Apply **Azure Policies & Security Center** recommendations.
 
     **📚 Relevant Courses:**
     *   [SC-900: Microsoft Security, Compliance, & Identity](https://www.udemy.com/course/sc-900-microsoft-security-compliance-identity-with-sims)
@@ -56,10 +56,10 @@ This project demonstrates the power of **IaC** through **Terraform** to create a
 
 ### 🛠️ **Phase 4: Azure Cost Optimization & Monitoring**
 
-- Implement **Azure Monitor & Log Analytics** to track performance.
-- Optimize cost with **Azure Cost Management**.
-- Configure **alerts & notifications** for critical events.
-- Set up **budget alerts and auto-scaling** for cost savings..
+*   Implement **Azure Monitor & Log Analytics** to track performance.
+*   Optimize cost with **Azure Cost Management**.
+*   Configure **alerts & notifications** for critical events.
+*   Set up **budget alerts and auto-scaling** for cost savings..
 
     **📚 Relevant Courses:**
     *   [Troubleshooting Microsoft Azure Connectivity](https://www.udemy.com/course/az-720-troubleshooting-microsoft-azure-connectivity-course/)
@@ -100,11 +100,11 @@ Azure-Infrastructure-Automation/
 
 ## 📌 Next Steps
 
-- [x] Deploy foundational Terraform infrastructure (VMs, Storage, Networking)
-- [ ] Implement IAM (RBAC, PIM) & Azure Security Center
-- [ ] Set up Kubernetes on AKS & containerized workloads
-- [ ] Integrate monitoring & cost management (Azure Monitor, Log Analytics)
-- [ ] Automate CI/CD pipelines with GitHub Actions & Azure DevOps
+*   [x] Deploy foundational Terraform infrastructure (VMs, Storage, Networking)
+*   [ ] Implement IAM (RBAC, PIM) & Azure Security Center
+*   [ ] Set up Kubernetes on AKS & containerized workloads
+*   [ ] Integrate monitoring & cost management (Azure Monitor, Log Analytics)
+*   [ ] Automate CI/CD pipelines with GitHub Actions & Azure DevOps
 
 ---
 
@@ -154,9 +154,9 @@ terraform apply -auto-approve
 
 ## 🤝 Contributing & Collaboration
 
-- Fork and create a branch
-- Commit clear and descriptive changes
-- Submit a pull request
+*   Fork and create a branch
+*   Commit clear and descriptive changes
+*   Submit a pull request
 
 I’m open to collaborating on **Cloud Infrastructure**, **DevOps projects**, and **automation initiatives**. Feel free to connect for collaboration or knowledge exchange!
 

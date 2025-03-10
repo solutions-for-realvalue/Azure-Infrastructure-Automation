@@ -4,7 +4,7 @@ Automating the provisioning and management of **Azure** resources (VMs, Storage,
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates the power of **IaC** through **Terraform** to create a scalable, secure, and repeatable infrastructure deployment on Azure. The focus includes:
 
@@ -16,60 +16,60 @@ This project demonstrates the power of **IaC** through **Terraform** to create a
 
 ---
 
-## 📖 Learning Roadmap
+## Learning Roadmap
 
-### 🛠️ **Phase 1: Terraform & ARM Templates**
+### **Phase 1: Terraform & ARM Templates**
 
 * Deploy **Azure Virtual Machines** with networking, security groups, and disk encryption.
 * Automate **VNets, Subnets, and NSGs** with Terraform modules.
 * Provision **Storage** (**Blob Storage, Files, Disks**) for applications.
 * Integrate **ARM Templates & Terraform** for hybrid deployments.
 
-    **📚 Relevant Courses:**
+    **Relevant Courses:**
   * [AZ-900: Microsoft Azure Fundamentals](https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-with-simulations/)
   * [AZ-104: Microsoft Azure Administrator](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/)
   * [Terraform 101](https://www.udemy.com/course/terraform-101-azure-edition/)
   * [Microsoft Learn - ARM Templates Best Practices](https://learn.microsoft.com/en-us/training/paths/deploy-manage-resource-manager-templates/)
 
-### 🛠️ **Phase 2: Kubernetes Deployment with AKS**
+### **Phase 2: Kubernetes Deployment with AKS**
 
 * Deploy containerized applications on **Azure Kubernetes Service (AKS)**.
 * Use **Helm Charts** for managing configurations.
 * Secure images with **Azure Container Registry (ACR)**.
 * Implement **CI/CD pipelines** for Kubernetes manifests.
 
-    **📚 Relevant Courses:**
+    **Relevant Courses:**
   * [Azure Administrator: AZ-104](https://www.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/)
   * [Kubernetes on Azure](https://www.udemy.com/course/terraform-on-azure-services/)
   * [CI/CD Pipelines with GitHub Actions](https://www.udemy.com/course/learn-github-actions-ci-cd-devops-pipelines/)
 
-### 🛠️ **Phase 3: Cloud Security & Compliance**
+### **Phase 3: Cloud Security & Compliance**
 
 * Implement **IAM policies** (**RBAC, PIM**) for role-based access control.
 * Secure secrets with **Azure Key Vault**.
 * Protect workloads with **Microsoft Defender for Cloud**.
 * Apply **Azure Policies & Security Center** recommendations.
 
-    **📚 Relevant Courses:**
+    **Relevant Courses:**
   * [SC-900: Microsoft Security, Compliance, & Identity](https://www.udemy.com/course/sc-900-microsoft-security-compliance-identity-with-sims)
   * [AZ-500: Microsoft Security Engineer](https://www.udemy.com/course/az-500-microsoft-azure-security-technologies-with-sims)
   * [Microsoft Sentinel Course with Hands-on Labs](https://www.udemy.com/course/microsoft-sentinel-course-with-hands-on-sims/)
 
-### 🛠️ **Phase 4: Azure Cost Optimization & Monitoring**
+### **Phase 4: Azure Cost Optimization & Monitoring**
 
 * Implement **Azure Monitor & Log Analytics** to track performance.
 * Optimize cost with **Azure Cost Management**.
 * Configure **alerts & notifications** for critical events.
 * Set up **budget alerts and auto-scaling** for cost savings..
 
-    **📚 Relevant Courses:**
+    **Relevant Courses:**
   * [Troubleshooting Microsoft Azure Connectivity](https://www.udemy.com/course/az-720-troubleshooting-microsoft-azure-connectivity-course/)
   * [Microsoft Applied Skills: Configure Secure Azure Networking](https://www.udemy.com/course/microsoft-applied-skills-configure-secure-access-to-your/)
   * [Azure Monitor & Cost Management Documentation](https://www.udemy.com/course/azure-infrastructure-managing-cost-governance-monitoring/)
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```bash
 Azure-Infrastructure-Automation/
@@ -99,7 +99,7 @@ Azure-Infrastructure-Automation/
 
 ---
 
-## 📌 Next Steps
+## Next Steps
 
 * [x] Deploy foundational Terraform infrastructure (VMs, Storage, Networking)
 * [ ] Implement IAM (RBAC, PIM) & Azure Security Center
@@ -109,7 +109,7 @@ Azure-Infrastructure-Automation/
 
 ---
 
-## 📌 Getting Started
+## Getting Started
 
 1. Clone the repository:
 
@@ -144,7 +144,7 @@ terraform apply -auto-approve
 
 ---
 
-## 🌟 Core Skills Demonstrated
+## Core Skills Demonstrated
 
 * **Cloud Infrastructure**: Azure Virtual Machines, VNet, Storage
 * **Infrastructure as Code**: Terraform, ARM Templates
@@ -154,7 +154,7 @@ terraform apply -auto-approve
 
 ---
 
-## 🤝 Contributing & Collaboration
+## Contributing & Collaboration
 
 * Fork and create a branch
 * Commit clear and descriptive changes
@@ -164,7 +164,7 @@ I’m open to collaborating on **Cloud Infrastructure**, **DevOps projects**, an
 
 ---
 
-## 📜 License
+## License
 
 Content and projects within this repository are licensed under the [MIT License](LICENSE).
 
@@ -172,5 +172,5 @@ Content and projects within this repository are licensed under the [MIT License]
 
 ## 📧 Contact & Connect
 
-* 📩 **Email**: [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)  
-* 🔗 **LinkedIn**: [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda)
+📩 **Email**: [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)  
+🔗 **LinkedIn**: [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda)
